@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ⚡ Hello guys, I'm Sina Beyki, a Front-End Developer with specialized skills in UI and UX<br>💎 Do You Have Any Project? Contact Me :<br>✉️ Sinab.work@gmail.com
 
 
