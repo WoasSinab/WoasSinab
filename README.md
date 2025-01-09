@@ -1,5 +1,5 @@
 # About Me:
-⚡ Hello guys, I'm Sina, a Front-End Developer with specialized skills in UI and UX<br>💎 Do You Have Any Project? <br> Contact Me :<br>✉️ sinab.ui@gmail.com
+⚡ Hello guys, I'm Sina, a Front-End Developer with specialized skills in UI and UX<br>💎 Do You Have Any Project? :<br>✉️ sinab.ui@gmail.com
 
 
 ## 🌐 Socials:
